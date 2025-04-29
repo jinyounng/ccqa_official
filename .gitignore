@@ -1,0 +1,6 @@
+# 모든 파일 무시
+*.*
+C:\Projects\CCQA_official\elice-cloud-ondemand-3a1888d2-afb6-4723-bedd-1db6800605c8.pem
+# py 파일은 추적
+!*.py
+!*.gitignore
